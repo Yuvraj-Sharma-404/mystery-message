@@ -1,8 +1,4 @@
-"workbench.colorCustomizations": {
-    "editorBracketHighlight.foreground1": "#FFD700",
-    "editorBracketHighlight.foreground2": "#00BFFF",
-    "editorBracketHighlight.foreground3": "#7CFC00",
-    "editorBracketHighlight.foreground4": "#FF69B4",
-    "editorBracketHighlight.foreground5": "#FF8C00",
-    "editorBracketHighlight.foreground6": "#BA55D3"
-}
+sudo pacman -S --needed gtk3 libnotify nss xdg-utils libxss libxtst \
+  gst-plugins-base gst-plugins-good gst-libav \
+  enchant hyphen libgles libwebp harfbuzz-icu \
+  woff2 flite libevent icu at-spi2-core
