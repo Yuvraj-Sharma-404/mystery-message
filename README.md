@@ -1,4 +1,1 @@
-sudo pacman -S --needed gtk3 libnotify nss xdg-utils libxss libxtst \
-  gst-plugins-base gst-plugins-good gst-libav \
-  enchant hyphen libgles libwebp harfbuzz-icu \
-  woff2 flite libevent icu at-spi2-core
+sudo apt-get install libgtk-4-1 libicu74 libxml2 libgstreamer-plugins-bad1.0-0 libflite1 libavif16 libmanette-0.2-0
